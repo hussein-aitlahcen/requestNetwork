@@ -38,8 +38,11 @@
     "@requestnetwork/transaction-manager": "0.47.0",
     "@requestnetwork/types": "0.56.0",
     "@requestnetwork/utils": "0.56.0",
+    "@unionlabs/payments": "0.3.2",
+    "effect": "^3.0.0",
     "ethers": "5.7.2",
-    "tslib": "2.8.1"
+    "tslib": "2.8.1",
+    "viem": "2.39.0"
   },
   "devDependencies": {
     "ts-node": "10.9.1",

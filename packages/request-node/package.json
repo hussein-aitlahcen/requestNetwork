@@ -22,9 +22,7 @@
     "node": ">=22.0.0"
   },
   "main": "dist/bin",
-  "bin": {
-    "request-node": "dist/bin.js"
-  },
+  "bin": "dist/bin.js",
   "files": [
     "dist"
   ],
